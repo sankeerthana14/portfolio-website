@@ -1,0 +1,17 @@
+{
+  "name": "profile-website",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass -w scss/:dist/css/"
+  },
+  "author": "Sankeerthana Satini",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.63.6"
+  },
+  "dependencies": {
+    "universalsmoothscroll": "^6.1.0"
+  }
+}
