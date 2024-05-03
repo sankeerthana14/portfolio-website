@@ -841,6 +841,9 @@ a:hover {
 .timeline-container:nth-child(4){
   animation-delay: 3s;
 }
+.timeline-container:nth-child(5){
+  animation-delay: 4s;
+}
 
 .timeline-container img{
   position: absolute;
@@ -885,7 +888,7 @@ a:hover {
   left:50%;
   margin-left:-3px;
   z-index:-1;
-  animation: moveline 4s linear forwards;
+  animation: moveline 5s linear forwards;
 }
 
 @keyframes moveline{
