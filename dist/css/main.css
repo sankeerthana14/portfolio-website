@@ -1400,13 +1400,14 @@ a:hover {
   
 
   #home .lg-heading{
-    font-size: 300%;
+    font-size: 320%;
     text-align: center; 
   }
 
   #home .sm-heading{
     font-size: 100%;
     text-align: center;
+    width: 100%;
   }
 
   .next .next-button{
