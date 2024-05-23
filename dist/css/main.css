@@ -1,10 +1,20 @@
 * {
   box-sizing: border-box;
 }
-
+/*
 html {
   scroll-behavior: smooth !important;
 }
+*/
+html {
+  scroll-snap-type: y mandatory !important; 
+  scroll-behavior: smooth;
+}
+
+section {
+  scroll-snap-align: start;
+}
+
 
 /*body - note as you are making changes to the code look out for the green comments from Sass
 to make sure there are no errors*/
