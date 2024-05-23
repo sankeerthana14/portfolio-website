@@ -1,14 +1,9 @@
 * {
   box-sizing: border-box;
 }
-/*
+
 html {
   scroll-behavior: smooth !important;
-}
-*/
-html {
-  scroll-snap-type: y mandatory !important; 
-  scroll-behavior: smooth;
 }
 
 section {
