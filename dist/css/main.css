@@ -5,12 +5,6 @@
 html {
   scroll-behavior: smooth !important;
 }
-
-section {
-  scroll-snap-align: start;
-}
-
-
 /*body - note as you are making changes to the code look out for the green comments from Sass
 to make sure there are no errors*/
 body {
