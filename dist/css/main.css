@@ -1612,7 +1612,7 @@ a:hover {
 }
 
 
-@media  screen and (max-width:400px) {
+@media  screen and (max-width:475px) {
   .body{
     overflow-x: hidden;
   }
